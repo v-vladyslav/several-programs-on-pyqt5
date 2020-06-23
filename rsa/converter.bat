@@ -1,0 +1,1 @@
+pyuic5 "gui.ui" -x -o "gui.py"
